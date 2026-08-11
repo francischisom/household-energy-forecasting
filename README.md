@@ -61,12 +61,7 @@ Source: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
 
 ```bash
 # Clone
-git clone https://github.com/<your-username>/appliance-energy-forecasting.git
-cd appliance-energy-forecasting
-
-# (Optional) virtual environment
-python -m venv .venv
-source .venv/bin/activate        # Windows: .venv\Scripts\activate
+git clone https://github.com/francischisom/household-energy-forecasting
 
 # Install dependencies
 pip install -r requirements.txt
