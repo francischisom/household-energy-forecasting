@@ -33,11 +33,9 @@ families are compared on a common test window:
 ## Repository Structure
 
 ```
-.
-├── Appliance_Energy_Forecast.ipynb    # Main analysis notebook (Parts 1-9)
-├── README.md                          # This file
+├── README.md                          
 ├── requirements.txt                   # Python dependencies
-├── .gitignore                         # Files git should ignore
+├── .gitignore                        
 ├── data/
 │   ├── raw/                           # Raw UCI dataset (not tracked)
 │   └── processed/                     # Hourly aggregated series
@@ -45,8 +43,8 @@ families are compared on a common test window:
 │   ├── figures/                       # Generated plots
 │   ├── forecasts/                     # Per-model forecast CSVs
 │   └── metrics/                       # Model comparison and answers
-└── report/
-    └── Appliance_Energy_Report.docx   # Final written report
+└── notebooks/
+    └── Appliance_Energy_Forecast.ipynb    # Main analysis notebook (Parts 1-9)
 ```
 
 ## Dataset
