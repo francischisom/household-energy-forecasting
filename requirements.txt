@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+xgboost
+
+# Foundation models (optional; notebook falls back gracefully if absent)
+torch
+chronos-forecasting
