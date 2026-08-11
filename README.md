@@ -4,7 +4,6 @@ A comparative time-series study forecasting hourly appliance energy use on the
 UCI Appliances Energy Prediction dataset, benchmarking naive, statistical,
 machine-learning and foundation models over a 14-day horizon.
 
-**Module:** 7PAM2032 Time Series Forecasting — Assignment 2
 
 ## Overview
 
@@ -56,6 +55,7 @@ UCI Appliances Energy Prediction — 19,735 observations at 10-minute resolution
 (Jan-May 2016), aggregated to 3,290 hourly observations. The final 14 days
 (336 hours) are held out as the test window.
 Source: https://archive.ics.uci.edu/dataset/374/appliances+energy+prediction
+ https://archive.ics.uci.edu/ml/machine-learning-databases/00374/energydata_complete.csv
 
 ## Setup and Usage
 
