@@ -65,7 +65,7 @@ git clone https://github.com/francischisom/household-energy-forecasting
 pip install -r requirements.txt
 
 # Run the notebook
-jupyter notebook Appliance_Energy_Forecast.ipynb
+Colab/jupyter notebook Appliance_Energy_Forecast.ipynb
 ```
 
 Run the cells top to bottom; figures and metrics are written to `outputs/`.
